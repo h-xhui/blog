@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="commonmark-ext-heading-anchor-0.18.0">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../Environment/apache-maven-3.6.1/maven-repo/org/commonmark/commonmark-ext-heading-anchor/0.18.0/commonmark-ext-heading-anchor-0.18.0.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
